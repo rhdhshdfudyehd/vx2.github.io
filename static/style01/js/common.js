@@ -198,10 +198,10 @@ $(function() {
     // 更新支付地址
     function updatePaymentAddress(method) {
         var addresses = {
-            'usdt-trc20': 'TYeq7iySqodh89rEasB2u6tKfM3nHgyXkP',
-            'usdt-erc20': '0x8a7d7a2c3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8',
-            'usdt-bep20': '0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b',
-            'usdt-sol': 'So1AaaBBbCCccDDddEEeeFFffGGggHHhhIIiiJJjj'
+            'usdt-trc20': 'TGA9Tc1PLqHTv7EibfhgPQ1NVXpG8L3sCV',
+            'usdt-erc20': '0x30f54c743276f548A06CA76dc1B0Ee024D165672',
+            'usdt-bep20': '0x30f54c743276f548A06CA76dc1B0Ee024D165672',
+            'usdt-sol': 'ENQamHcTXoZSnvRZitpcMzeDmKPMz7wj8MfFT7vrYnyh'
         };
 
         $('#payment-address').text(addresses[method]);
