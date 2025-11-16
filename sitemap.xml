@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.52taoka.com/</loc>
-    <lastmod>2025-11-15</lastmod>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.52taoka.com/article.html</loc>
-    <lastmod>2025-11-15</lastmod>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.52taoka.com/article-2.html</loc>
-    <lastmod>2025-11-15</lastmod>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -369,6 +369,36 @@
   <url>
     <loc>https://www.52taoka.com/article/wei-xin-hao-jiao-yi-ping-tai-xuan-ze-zhi-nan-an-quan-he-gui-de-zhang-hao-liu-zhuan-fu-wu.html</loc>
     <lastmod>2025-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/wei-xin-hao-chu-zu-xian-xiang-jie-xi-ji-yu-feng-xian-yu-zheng-que-shi-yong-fang-shi.html</loc>
+    <lastmod>2025-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/wei-xin-hao-gou-mai-zhi-nan-an-quan-ke-kao-de-zhang-hao-huo-qu-fang-shi-yu-zhu-yi-shi-xiang.html</loc>
+    <lastmod>2025-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/shi-ming-wei-xin-hao-de-he-fa-shi-yong-yu-an-quan-bao-zhang-zhi-nan.html</loc>
+    <lastmod>2025-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/guo-wai-wei-xin-hao-huo-qu-zhi-nan-an-quan-he-gui-de-kua-guo-she-jiao-jie-jue-fang-an.html</loc>
+    <lastmod>2025-11-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/guo-wai-wei-xin-hao-gou-mai-zhi-nan-an-quan-huo-qu-guo-ji-ban-wei-xin-de-he-fa-tu-jing.html</loc>
+    <lastmod>2025-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
