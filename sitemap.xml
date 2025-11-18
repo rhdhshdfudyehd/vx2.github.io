@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.52taoka.com/</loc>
-    <lastmod>2025-11-17</lastmod>
+    <lastmod>2025-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.52taoka.com/article.html</loc>
-    <lastmod>2025-11-17</lastmod>
+    <lastmod>2025-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.52taoka.com/article-2.html</loc>
-    <lastmod>2025-11-17</lastmod>
+    <lastmod>2025-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.52taoka.com/article-3.html</loc>
-    <lastmod>2025-11-17</lastmod>
+    <lastmod>2025-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -435,6 +435,36 @@
   <url>
     <loc>https://www.52taoka.com/article/wei-xin-hao-gou-mai-zi-dong-fa-huo-ping-tai-de-xuan-ze-yu-shi-yong-zhi-nan.html</loc>
     <lastmod>2025-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/shi-ming-wei-xin-hao-chu-shou-shi-chang-xian-zhuang-yu-he-gui-shi-yong-zhi-nan.html</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/wei-xin-hao-gou-mai-zhi-nan-an-quan-he-gui-de-zhang-hao-huo-qu-fang-shi-yu-shi-yong-jian-yi.html</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/si-ren-wei-xin-hao-de-zheng-que-shi-yong-yu-an-quan-zhi-nan.html</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/shi-ming-wei-xin-hao-gou-mai-zhi-nan-he-fa-tu-jing-yu-an-quan-shi-yong-quan-jie-xi.html</loc>
+    <lastmod>2025-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.52taoka.com/article/wei-xin-hao-chu-zu-xian-xiang-jie-xi-ji-yu-feng-xian-yu-zheng-que-shi-yong-fang-shi.html</loc>
+    <lastmod>2025-11-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
